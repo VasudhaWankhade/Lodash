@@ -1,4 +1,4 @@
-var _ = require('lodash');
+var _ = require('lodash'); //  to import the lodash library into the file.
 
 var users = [
     { 'user': 'barney', 'age': 36, 'active': true },
